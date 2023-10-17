@@ -17,6 +17,7 @@ let state;
 //object
 
 console.log(typeof null)
-console.log(typeof string)
+console.log(typeof )
+
 
 
