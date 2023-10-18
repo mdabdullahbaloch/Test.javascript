@@ -1,0 +1,14 @@
+//Primitive
+
+//7 types : String, Num, Boolearn, Null, Undefined, symbol, BigInt
+
+
+const score =  100
+const scoreValue =  100.3
+ 
+const isLoggedIn = false
+cons
+
+
+//Reference (Non Primitive)
+// Array, Objects, Functionss
